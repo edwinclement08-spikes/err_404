@@ -1,0 +1,17 @@
+{
+  "name": "interfacing",
+  "version": "1.0.0",
+  "description": "Interfacing the application to geth",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.17",
+    "solc-cli": "^0.3.0",
+    "web3": "^1.0.0-beta.22"
+  }
+}
